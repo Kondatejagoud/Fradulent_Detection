@@ -52,7 +52,7 @@ Developed for **Teegala Krishna Reddy Engineering College (TKREC)**, Department 
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/Madukalmanoj/FraudGuard.git
+git clone https://github.com/Kondatejagoud/Fradulent_Detection.git
 cd FraudGuard
 pip install -r requirements.txt
 ```
